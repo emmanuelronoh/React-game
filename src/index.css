@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Chewy&family=Elsie:wght@900&display=swap&family=Vibes&display=swap&family=Londrina+Shadow&family=Londrina+Sketch&family=Londrina+Solid:wght@300;400;900&display=swapp');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
