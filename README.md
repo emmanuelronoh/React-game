@@ -1,4 +1,4 @@
-# Tic tac toe/Jogo da velha
+# Tic tac toe
 
 ## [EN] About this project
 
@@ -18,7 +18,7 @@ To run this app, make sure you have Node.js installed on your computer and then 
 
 In the `src` directory, run the command `npm run coverage`.
 
-> 💬 If you have any suggestions or feedbacks, I would be happy to receive them through <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
+> 💬 If you have any suggestions or feedbacks, I would be happy to receive them through <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>!
 
 <hr>
 
